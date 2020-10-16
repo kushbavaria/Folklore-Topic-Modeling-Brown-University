@@ -1,1 +1,1 @@
-# FolkloreTopicModelingBrownUniv
+# FolkloreTopicModelingBrownUniversity
